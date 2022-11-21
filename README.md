@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NoahFlanigan
+- 👀 I’m interested in plant tissue culture, veganism, and science.
+- 🌱 I’m currently learning git and sql.
+- 💞️ I’m looking to collaborate on software for veganism.
